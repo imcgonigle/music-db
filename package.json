@@ -1,0 +1,24 @@
+{
+  "name": "knex-migration-seed-music-script",
+  "version": "1.0.0",
+  "description": "![Music Icon](http://icons.iconarchive.com/icons/dtafalonso/yosemite-flat/512/Music-icon.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imcgonigle/knex-migration-seed-music-script.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imcgonigle/knex-migration-seed-music-script/issues"
+  },
+  "homepage": "https://github.com/imcgonigle/knex-migration-seed-music-script#readme",
+  "dependencies": {
+    "knex": "^0.11.10",
+    "pg": "^6.1.0"
+  }
+}
